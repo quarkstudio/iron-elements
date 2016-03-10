@@ -14,7 +14,7 @@
     "url": "git://github.com/PolymerElements/iron-elements.git"
   },
   "dependencies": {
-    "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#~1.1",
+    "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#~1.0",
     "iron-a11y-keys": "PolymerElements/iron-a11y-keys#~1.1",
     "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#~1.1",
     "iron-ajax": "PolymerElements/iron-ajax#~1.1",
